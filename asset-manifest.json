@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Crypto-app/static/js/main.01475e69.js",
+    "static/media/btc.png": "/Crypto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/Passport_Size_Photo.jpeg": "/Crypto-app/static/media/Passport_Size_Photo.6047bca141ffe5a40bf7.jpeg",
+    "index.html": "/Crypto-app/index.html",
+    "main.01475e69.js.map": "/Crypto-app/static/js/main.01475e69.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.01475e69.js"
+  ]
+}
